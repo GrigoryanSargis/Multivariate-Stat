@@ -30,12 +30,6 @@ The correlation circle plot visualizes the relationships between the original va
 - School Support (schoolsup_yes) is negatively correlated with both principal components.
 
 # How to Run
-1. Clone the repository:
-  git clone https://github.com/GrigoryanSargis/Multivariate-Stat.git
-2. Navigate to the project directory:
-   cd Multivariate-Stat
-3. Open the Jupyter Notebook Multivariate_Stat.ipynb to explore the analysis:
-   jupyter notebook Multivariate_Stat.ipynb
-
-
-
+Clone the repository:
+```sh
+git clone https://github.com/GrigoryanSargis/Multivariate-Stat.git
